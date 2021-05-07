@@ -400,13 +400,13 @@ They can't be added directly but you can add an image with a link to the video l
 ```no-highlight
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Ij20-IEUTjg
 " target="_blank"><img src="http://img.youtube.com/vi/Ij20-IEUTjg/0.jpg"
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="pathar ke sanam" width="240" height="180" border="10" /></a>
 ```
 
 Or, in pure Markdown, but losing the image sizing and border:
 
 ```no-highlight
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Ij20-IEUTjg/0.jpg)](http://www.youtube.com/watch?v=Ij20-IEUTjg)
+[![Pathar ke sanam](http://img.youtube.com/vi/Ij20-IEUTjg/0.jpg)](http://www.youtube.com/watch?v=Ij20-IEUTjg)
 ```
 
 Referencing a bug by #bugID in your git commit links it to the slip. For example #1.
