@@ -413,7 +413,7 @@ Or, in pure Markdown, but losing the image sizing and border:
 [![ALT_TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
 
 ```
-[!pathar ke sanam](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[![pathar ke sanam](http://img.youtube.com/vi/Ij20-IEUTjg/0.jpg)](http://www.youtube.com/watch?v=Ij20-IEUTjg)
 
 Referencing a bug by #bugID in your git commit links it to the slip. For example #1.
 
