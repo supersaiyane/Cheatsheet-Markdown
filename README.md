@@ -403,17 +403,17 @@ They can't be added directly but you can add an image with a link to the video l
 alt="pathar ke sanam" width="240" height="180" border="10" /></a>
 ```
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ij20-IEUTjg
+" target="_blank"><img src="http://img.youtube.com/vi/Ij20-IEUTjg/0.jpg"
+alt="pathar ke sanam" width="240" height="180" border="10" /></a>
+
 Or, in pure Markdown, but losing the image sizing and border:
 
 ```no-highlight
 [![Pathar ke sanam](http://img.youtube.com/vi/Ij20-IEUTjg/0.jpg)](http://www.youtube.com/watch?v=Ij20-IEUTjg)
 
-[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
-
 ```
 [![Pathar ke sanam](http://img.youtube.com/vi/Ij20-IEUTjg/0.jpg)](http://www.youtube.com/watch?v=Ij20-IEUTjg)
-
-[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
 
 Referencing a bug by #bugID in your git commit links it to the slip. For example #1.
 
