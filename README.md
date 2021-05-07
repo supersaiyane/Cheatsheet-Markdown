@@ -407,6 +407,9 @@ Or, in pure Markdown, but losing the image sizing and border:
 
 ```no-highlight
 [![Pathar ke sanam](http://img.youtube.com/vi/Ij20-IEUTjg/0.jpg)](http://www.youtube.com/watch?v=Ij20-IEUTjg)
+
+[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
+
 ```
 
 Referencing a bug by #bugID in your git commit links it to the slip. For example #1.
