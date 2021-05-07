@@ -410,10 +410,10 @@ alt="pathar ke sanam" width="240" height="180" border="10" /></a>
 Or, in pure Markdown, but losing the image sizing and border:
 
 ```no-highlight
-[![Pathar ke sanam](http://img.youtube.com/vi/Ij20-IEUTjg/0.jpg)](http://www.youtube.com/watch?v=Ij20-IEUTjg)
+[![ALT_TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
 
 ```
-[![Pathar ke sanam](http://img.youtube.com/vi/Ij20-IEUTjg/0.jpg)](http://www.youtube.com/watch?v=Ij20-IEUTjg)
+[![ALT_TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
 
 Referencing a bug by #bugID in your git commit links it to the slip. For example #1.
 
