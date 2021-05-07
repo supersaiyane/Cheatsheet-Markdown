@@ -398,9 +398,9 @@ This line is only separated by a single newline, so it's a separate line in the 
 They can't be added directly but you can add an image with a link to the video like this:
 
 ```no-highlight
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ij20-IEUTjg
-" target="_blank"><img src="http://img.youtube.com/vi/Ij20-IEUTjg/0.jpg"
-alt="pathar ke sanam" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg"
+alt="ALT_TEXT" width="240" height="180" border="10" /></a>
 ```
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Ij20-IEUTjg
@@ -413,7 +413,7 @@ Or, in pure Markdown, but losing the image sizing and border:
 [![ALT_TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
 
 ```
-[![ALT_TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[!pathar ke sanam](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
 
 Referencing a bug by #bugID in your git commit links it to the slip. For example #1.
 
